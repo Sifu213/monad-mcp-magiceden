@@ -38,7 +38,7 @@ Add you api client key in the nft-owners.ts file on line  :
 const THIRDWEB_CLIENT_ID = "yourclientkey";
 ```
 
-### Build the project
+4. Build the project
 
 ```shell
 npm run build
