@@ -1,13 +1,12 @@
 # Monad MCP Magic Eden
 
-This project allows you to create a MCP server that interacts with some API to retrieve NFT related Data on Monad testnet. 
-The MCP server provides several tools :
-- get the holder's adress list for a nft contract
-- get the top selling collection by sales (5m, 10m, 30m, 1h, 6h, 24h, 1d, 7d, 30d)
-- get the top selling collection by volume (5m, 10m, 30m, 1h, 6h, 24h, 1d, 7d, 30d)
-- get all the NFT collection that an adress hold
-- get the total NFT value that an adress hold using floor price
+This project allows you to create an MCP server that interacts with various APIs to retrieve NFT-related data on the Monad testnet. The MCP server provides several tools:
 
+- Retrieve the list of holder addresses for an NFT contract
+-Calculate the total NFT value held by an address using floor prices
+- List all NFT collections that an address holds
+- Get the top-selling collections by number of sales (5 min, 10 min, 30 min, 1 h, 6 h, 24 h, 1 d, 7 d, 30 d)
+- Get the top-selling collections by volume (5 min, 10 min, 30 min, 1 h, 6 h, 24 h, 1 d, 7 d, 30 d)
 
 ## Prerequisites
 
