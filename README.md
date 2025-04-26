@@ -29,14 +29,14 @@ git clone https://github.com/Sifu213/monad-mcp-magiceden.git
 npm install
 ```
 
-3. Install dependencies:
+3. Add a Thirdweb client key :
+   
 Get an Thirdweb client key to be able to use the list of holders for a NFT collection by creating a project and make the origin allowance to *.
 Add you api client key in the nft-owners.ts file on line  :
 
 ```
 const THIRDWEB_CLIENT_ID = "yourclientkey";
 ```
-
 
 ### Build the project
 
