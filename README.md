@@ -12,7 +12,7 @@ The MCP server provides several tools :
 ## Prerequisites
 
 - Node.js (v16 or later)
-- `npm`
+- npm
 - Claude Desktop
 
 ## Getting Started
