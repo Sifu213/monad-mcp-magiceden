@@ -86,9 +86,9 @@ Use your machine absolute path to the js files resulting from the build
 }
 ```
 
-5. Restart "Claude Desktop" and make sure it's an hard restart
+5. Restart "Claude Desktop" and make sure it's a hard restart
 
-All the MCP tools may be available
+All the MCP tools may be availables
 
 ![final result](/static/resultmcp.gif)
 
