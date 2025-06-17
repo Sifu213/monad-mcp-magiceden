@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/sifu213-monad-mcp-magiceden-badge.png)](https://mseep.ai/app/sifu213-monad-mcp-magiceden)
+
 # Monad MCP Magic Eden
 
 This project allows you to create an MCP server that interacts with various APIs to retrieve NFT-related data on the Monad testnet. The MCP server provides several tools:
